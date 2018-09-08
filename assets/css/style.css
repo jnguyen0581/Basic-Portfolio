@@ -5,7 +5,7 @@
 body {
     font-size: 18px;
     line-height: 34px;
-    font-family: 'Arial', 'Helvetica', sans-serif;
+    font-family: "Arial", "Helvetica", sans-serif;
     color: #777;
 }
 
@@ -25,7 +25,7 @@ p:last-child {
 }
 
 h1, h2, h3 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Georgia", "Times New Roman", Times, serif;
     font-weight: 700;
     color: #4aaaa5;
 
@@ -50,7 +50,7 @@ h2, h3 {
     color: #fff;
     overflow: auto;
     border-bottom: 2px solid #ccc;
-/*  position: fixed;*/
+/*  position: fixed*/
     width: 100%;
 }
 
@@ -59,7 +59,7 @@ h2, h3 {
     height: 90px;
     background: #4aaaa5;
     float: left;
-    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-family: "Georgia", "Times New Roman", Times, serif;
     text-align: center;
     line-height: 90px;
     color: #fff;
